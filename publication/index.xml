@@ -5,12 +5,28 @@
     <link>https://mukherjeesohom.github.io/publication/</link>
       <atom:link href="https://mukherjeesohom.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://mukherjeesohom.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://mukherjeesohom.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Fault Classification in Three Phase Self-Excited Induction Generators using Deep Neural Networks</title>
+      <link>https://mukherjeesohom.github.io/publication/mukherjee-2019-fault/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      <guid>https://mukherjeesohom.github.io/publication/mukherjee-2019-fault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fingertip detection and tracking for recognition of air-writing in videos</title>
+      <link>https://mukherjeesohom.github.io/publication/mukherjee-2019-fingertip/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      <guid>https://mukherjeesohom.github.io/publication/mukherjee-2019-fingertip/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
